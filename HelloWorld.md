@@ -1,2 +1,2 @@
 ## This is a markdown file
-Created this file as part of the Data Science Toolbox assignment.
+Created this file as part of "The Data Scientist's Toolbox" course assignment.
